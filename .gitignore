@@ -1,0 +1,88 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+uv.lock
+
+# Node
+node_modules/
+.next/
+out/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+postgresql_data/
+
+# Vector DB
+qdrant_data/
+
+# Models
+/models/
+*.bin
+*.safetensors
+*.gguf
+
+# Media (large files)
+data/media/
+data/sample/
+
+# Logs
+logs/
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing
+.coverage
+.tox/
+.nox/
+
+# Temporary & Build Outputs
+tmp/
+temp/
+*.tmp
+*.temp
+brag-output/
+opencode.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TypeScript
+*.tsbuildinfo
