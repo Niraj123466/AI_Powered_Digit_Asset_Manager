@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "query": "modern living room interior",
+    "modality": "image",
+    "filters": {}
+  },
+  {
+    "id": "q2",
+    "query": "construction workers on site",
+    "modality": "video",
+    "filters": {}
+  },
+  {
+    "id": "q3",
+    "query": "customer testimonial video",
+    "modality": "video",
+    "filters": {}
+  },
+  {
+    "id": "q4",
+    "query": "residential project brochure",
+    "modality": "document",
+    "filters": {}
+  },
+  {
+    "id": "q5",
+    "query": "apartment floor plan",
+    "modality": "document",
+    "filters": {}
+  },
+  {
+    "id": "q6",
+    "query": "luxury bedroom design",
+    "modality": "image",
+    "filters": {}
+  },
+  {
+    "id": "q7",
+    "query": "building construction activity",
+    "modality": "video",
+    "filters": {}
+  },
+  {
+    "id": "q8",
+    "query": "office workspace interior",
+    "modality": "image",
+    "filters": {}
+  },
+  {
+    "id": "q9",
+    "query": "kitchen renovation before after",
+    "modality": "image",
+    "filters": {}
+  },
+  {
+    "id": "q10",
+    "query": "project proposal document",
+    "modality": "document",
+    "filters": {}
+  }
+]

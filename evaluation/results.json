@@ -1,0 +1,209 @@
+{
+  "summary": {
+    "precision@5": 0.18,
+    "precision@10": 0.09,
+    "recall@5": 0.6,
+    "recall@10": 0.6
+  },
+  "results": [
+    {
+      "query": "modern living room interior",
+      "modality": "image",
+      "returned_ids": [
+        "c451bed4-0aed-492d-a554-b429f0425f62",
+        "8fd21d65-8745-4810-8c97-43509fe62a3c",
+        "e1b0fa6b-7fa3-4141-95ae-6bedee1a373d",
+        "219ab5cf-9118-4877-9e8d-0d8f745f2f3c"
+      ],
+      "relevant_ids": [
+        "50124de5-27d3-4d62-a73c-63055bc30a2a",
+        "c451bed4-0aed-492d-a554-b429f0425f62"
+      ],
+      "metrics": {
+        "precision@5": 0.2,
+        "recall@5": 0.5,
+        "precision@10": 0.1,
+        "recall@10": 0.5
+      },
+      "latency_ms": 22383
+    },
+    {
+      "query": "construction workers on site",
+      "modality": "video",
+      "returned_ids": [
+        "3032cf10-9488-41f2-9a80-4aa9f21e92c9",
+        "fe3f623c-db8b-48b6-a218-198eeb891cb0",
+        "3f12f236-11b3-4d06-9e99-35d83b72a3e9",
+        "042e40b1-77fb-4a4e-8e46-5b292a3e0263",
+        "4a37d697-a2c0-4e05-a511-f25cabebb358"
+      ],
+      "relevant_ids": [
+        "3f12f236-11b3-4d06-9e99-35d83b72a3e9",
+        "042e40b1-77fb-4a4e-8e46-5b292a3e0263"
+      ],
+      "metrics": {
+        "precision@5": 0.4,
+        "recall@5": 1.0,
+        "precision@10": 0.2,
+        "recall@10": 1.0
+      },
+      "latency_ms": 44
+    },
+    {
+      "query": "customer testimonial video",
+      "modality": "video",
+      "returned_ids": [
+        "3032cf10-9488-41f2-9a80-4aa9f21e92c9",
+        "fe3f623c-db8b-48b6-a218-198eeb891cb0",
+        "3f12f236-11b3-4d06-9e99-35d83b72a3e9",
+        "042e40b1-77fb-4a4e-8e46-5b292a3e0263",
+        "4a37d697-a2c0-4e05-a511-f25cabebb358"
+      ],
+      "relevant_ids": [
+        "3032cf10-9488-41f2-9a80-4aa9f21e92c9"
+      ],
+      "metrics": {
+        "precision@5": 0.2,
+        "recall@5": 1.0,
+        "precision@10": 0.1,
+        "recall@10": 1.0
+      },
+      "latency_ms": 31
+    },
+    {
+      "query": "residential project brochure",
+      "modality": "document",
+      "returned_ids": [
+        "64e5d276-46e3-4ab9-bb1b-a80631837046",
+        "28af9367-f9a4-4ac4-88dd-c9c7602d98bd"
+      ],
+      "relevant_ids": [
+        "7bd78b33-5558-4141-9e60-2ff1f394f57d"
+      ],
+      "metrics": {
+        "precision@5": 0.0,
+        "recall@5": 0.0,
+        "precision@10": 0.0,
+        "recall@10": 0.0
+      },
+      "latency_ms": 52
+    },
+    {
+      "query": "apartment floor plan",
+      "modality": "document",
+      "returned_ids": [
+        "64e5d276-46e3-4ab9-bb1b-a80631837046",
+        "7bd78b33-5558-4141-9e60-2ff1f394f57d",
+        "31a36582-8753-49a6-b133-b5f4d3dc75a7"
+      ],
+      "relevant_ids": [
+        "31a36582-8753-49a6-b133-b5f4d3dc75a7",
+        "e1b0fa6b-7fa3-4141-95ae-6bedee1a373d"
+      ],
+      "metrics": {
+        "precision@5": 0.2,
+        "recall@5": 0.5,
+        "precision@10": 0.1,
+        "recall@10": 0.5
+      },
+      "latency_ms": 27
+    },
+    {
+      "query": "luxury bedroom design",
+      "modality": "image",
+      "returned_ids": [
+        "c451bed4-0aed-492d-a554-b429f0425f62",
+        "e1b0fa6b-7fa3-4141-95ae-6bedee1a373d",
+        "8fd21d65-8745-4810-8c97-43509fe62a3c",
+        "219ab5cf-9118-4877-9e8d-0d8f745f2f3c"
+      ],
+      "relevant_ids": [
+        "50124de5-27d3-4d62-a73c-63055bc30a2a"
+      ],
+      "metrics": {
+        "precision@5": 0.0,
+        "recall@5": 0.0,
+        "precision@10": 0.0,
+        "recall@10": 0.0
+      },
+      "latency_ms": 34
+    },
+    {
+      "query": "building construction activity",
+      "modality": "video",
+      "returned_ids": [
+        "3032cf10-9488-41f2-9a80-4aa9f21e92c9",
+        "fe3f623c-db8b-48b6-a218-198eeb891cb0",
+        "3f12f236-11b3-4d06-9e99-35d83b72a3e9",
+        "042e40b1-77fb-4a4e-8e46-5b292a3e0263",
+        "4a37d697-a2c0-4e05-a511-f25cabebb358"
+      ],
+      "relevant_ids": [
+        "3f12f236-11b3-4d06-9e99-35d83b72a3e9",
+        "042e40b1-77fb-4a4e-8e46-5b292a3e0263"
+      ],
+      "metrics": {
+        "precision@5": 0.4,
+        "recall@5": 1.0,
+        "precision@10": 0.2,
+        "recall@10": 1.0
+      },
+      "latency_ms": 25
+    },
+    {
+      "query": "office workspace interior",
+      "modality": "image",
+      "returned_ids": [
+        "c451bed4-0aed-492d-a554-b429f0425f62",
+        "8fd21d65-8745-4810-8c97-43509fe62a3c"
+      ],
+      "relevant_ids": [
+        "e1ad95ca-7784-4943-88a4-1ba30d256ed7"
+      ],
+      "metrics": {
+        "precision@5": 0.0,
+        "recall@5": 0.0,
+        "precision@10": 0.0,
+        "recall@10": 0.0
+      },
+      "latency_ms": 27
+    },
+    {
+      "query": "kitchen renovation before after",
+      "modality": "image",
+      "returned_ids": [
+        "c451bed4-0aed-492d-a554-b429f0425f62",
+        "8fd21d65-8745-4810-8c97-43509fe62a3c",
+        "219ab5cf-9118-4877-9e8d-0d8f745f2f3c"
+      ],
+      "relevant_ids": [
+        "c451bed4-0aed-492d-a554-b429f0425f62"
+      ],
+      "metrics": {
+        "precision@5": 0.2,
+        "recall@5": 1.0,
+        "precision@10": 0.1,
+        "recall@10": 1.0
+      },
+      "latency_ms": 30
+    },
+    {
+      "query": "project proposal document",
+      "modality": "document",
+      "returned_ids": [
+        "28af9367-f9a4-4ac4-88dd-c9c7602d98bd",
+        "64e5d276-46e3-4ab9-bb1b-a80631837046"
+      ],
+      "relevant_ids": [
+        "28af9367-f9a4-4ac4-88dd-c9c7602d98bd"
+      ],
+      "metrics": {
+        "precision@5": 0.2,
+        "recall@5": 1.0,
+        "precision@10": 0.1,
+        "recall@10": 1.0
+      },
+      "latency_ms": 26
+    }
+  ]
+}
